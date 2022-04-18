@@ -1,0 +1,10 @@
+.page-body {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+}
+
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+}
